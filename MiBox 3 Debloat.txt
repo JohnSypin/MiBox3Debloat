@@ -1,0 +1,24 @@
+ //Mibox 3 preloaded apps
+ pm uninstall -k --user 0 com.cbs.ott
+ pm uninstall -k --user 0 com.hulu.livingroomplus
+ pm uninstall -k --user 0 com.pandora.android.atv
+ pm uninstall -k --user 0 com.showtime.standalone
+ pm uninstall -k --user 0 com.nousguide.android.rbtv
+ pm uninstall -k --user 0 com.sling
+ pm uninstall -k --user 0 air.com.vudu.air.DownloaderTablet
+ pm uninstall -k --user 0 com.xiaomi.android.tvsetup.partnercustomizer
+ 
+ //Android languages keyboard
+ pm uninstall -k --user 0 com.google.android.inputmethod.korean
+ pm uninstall -k --user 0 com.google.android.apps.inputmethod.hindi
+ pm uninstall -k --user 0 com.google.android.inputmethod.japanese
+ pm uninstall -k --user 0 com.google.android.apps.inputmethod.zhuyin
+ pm uninstall -k --user 0 com.google.android.inputmethod.pinyin
+ 
+ //Android google apps
+ pm uninstall -k --user 0 com.google.android.tv
+ pm uninstall -k --user 0 com.google.android.play.games
+ pm uninstall -k --user 0 com.google.android.music
+ pm uninstall -k --user 0 com.google.android.videos
+ pm uninstall -k --user 0 com.google.android.tts
+ pm uninstall -k --user 0 com.google.android.leanbacklauncher.recommendations
